@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya R.</h1>
-<h3 align="center">I am a Computer Science student at SCEM Mangalore, India.</h3>
+<h3 align="center">I am a Computer Science student passionate about software development and technology.</h3>
 
 - 🌱 I’m currently learning the **MERN stack** and improving my **DSA skills**  
 - 📫 How to reach me: **riyar2004oct@gmail.com**
