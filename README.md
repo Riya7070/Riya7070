@@ -32,14 +32,14 @@
   <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/github pages-121013?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/embedded c-blue?style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/embedded c-blue?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/render-3F3F3F?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
   <br />
   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/react router-DD0031?style=for-the-badge&logo=reactrouter" />
-  <img src="https://img.shields.io/badge/react hooks-61DAFB?style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/react hooks-61DAFB?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/tailwind CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
