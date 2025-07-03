@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya R.</h1>
-<h3 align="center">I am a Computer Science student at SCEM Adyar, Mangalore, India.</h3>
+<h3 align="center">I am a Computer Science student at SCEM Mangalore, India.</h3>
 
 - 🌱 I’m currently learning the **MERN stack** and improving my **DSA skills**  
 - 📫 How to reach me: **riyar2004oct@gmail.com**
@@ -43,12 +43,12 @@
   <img src="https://img.shields.io/badge/tailwind CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <br />
   <img src="https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <br />
 <!--   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
 </p>
 
 <!--
