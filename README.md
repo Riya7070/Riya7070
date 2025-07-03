@@ -35,9 +35,9 @@
 <!--   <img src="https://img.shields.io/badge/embedded c-blue?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/render-3F3F3F?style=for-the-badge&logo=render&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
-  <br />
   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br />
   <img src="https://img.shields.io/badge/react router-DD0031?style=for-the-badge&logo=reactrouter" />
 <!--   <img src="https://img.shields.io/badge/react hooks-61DAFB?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/tailwind CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
